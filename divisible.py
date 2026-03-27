@@ -1,0 +1,5 @@
+num = int(input("Enter number: ")) 
+if num % 2 == 0: 
+  print("Divisible by 2") 
+else: 
+  print("Not divisible by 2") 
